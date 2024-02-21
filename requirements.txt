@@ -1,2 +1,3 @@
+argparse 
+cryptography 
 pyperclip
-cryptography
